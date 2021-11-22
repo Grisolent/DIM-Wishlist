@@ -15,15 +15,18 @@ dimwishlist:item=3717177717&perks=2450788523,591790007
 dimwishlist:item=3717177717&perks=1359896290,591790007
 
 // Deafening Whisper
-//notes: PVE, Handling, Reload masterwork recommended
+//notes: PVE, Handling, Reload mw recommended
 dimwishlist:item=981718087&perks=3436462433,3300816228
 dimwishlist:item=981718087&perks=2010801679,3300816228
 dimwishlist:item=981718087&perks=1556840489,3300816228
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,4071163871
 
+// Martyr's Retribution  (PvE / M+KB)
+//notes: PVE, Handling mw recommended
+
 // First In, Last Out
-//notes: BIS PVE Slug, Handling masterwork recommended
+//notes: BIS PVE Slug, Handling mw recommended
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
 
