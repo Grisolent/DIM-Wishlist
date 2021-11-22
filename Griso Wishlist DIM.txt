@@ -1,6 +1,14 @@
 //Succession (PvE)
-//notes: BIS Sniper, Max handling recommended
+//notes: BIS PVE Sniper, Max handling recommended
 dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391
+
+// Succession (PvP)
+//notes: PVP, Max handling/range recommended
+dimwishlist:item=2990047042&perks=2450788523,957782887
+dimwishlist:item=2990047042&perks=1523832109,957782887
+dimwishlist:item=2990047042&perks=588594999,957782887
+dimwishlist:item=2990047042&perks=2866798147,957782887
+
 
 //the mountaintop
 dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3713839994
