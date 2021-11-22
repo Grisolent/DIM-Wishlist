@@ -14,6 +14,15 @@ dimwishlist:item=2990047042&perks=2866798147,957782887
 dimwishlist:item=3717177717&perks=2450788523,591790007
 dimwishlist:item=3717177717&perks=1359896290,591790007
 
+// Deafening Whisper
+//notes: PVE, Handling, Reload masterwork recommended
+dimwishlist:item=981718087&perks=3436462433,3300816228
+dimwishlist:item=981718087&perks=2010801679,3300816228
+dimwishlist:item=981718087&perks=1556840489,3300816228
+dimwishlist:item=981718087&perks=2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,4071163871
+
+
 
 //the mountaintop
 dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3713839994
