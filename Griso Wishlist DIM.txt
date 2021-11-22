@@ -22,6 +22,10 @@ dimwishlist:item=981718087&perks=1556840489,3300816228
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,4071163871
 
+// First In, Last Out
+//notes: BIS PVE Slug, Handling masterwork recommended
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+
 
 
 //the mountaintop
