@@ -1,3 +1,9 @@
+title:Grisolent's regularly updated list of PVE and PVP rolls
+
+title:Snipers
+
+title:PVP
+
 // Praedyth's Revenge (Timelost) (PVP)
 //notes: PVP, Handling/Range mw recommended
 dimwishlist:item=1987769101&perks=1840239774,3142289711,588594999,47981717
