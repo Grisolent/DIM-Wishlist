@@ -1,3 +1,9 @@
+// Uzume RR4 (PvE)
+//notes: PVE, Reload/Handling mw recommended
+dimwishlist:item=2065081837&perks=1087426260,3400784728,1546637391
+dimwishlist:item=2065081837&perks=2420895100,3400784728,1546637391
+dimwishlist:item=2065081837&perks=106909392,3400784728,1546637391
+
 //Succession (PvE)
 //notes: BIS PVE Sniper, Max handling recommended
 dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391
@@ -22,7 +28,7 @@ dimwishlist:item=981718087&perks=1556840489,3300816228
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,4071163871
 
-// Martyr's Retribution  (PvE / M+KB)
+// Martyr's Retribution  (PvE)
 //notes: PVE, Handling mw recommended
 dimwishlist:item=3850168899&perks=3300816228,3523296417
 dimwishlist:item=3850168899&perks=2869569095,3523296417
