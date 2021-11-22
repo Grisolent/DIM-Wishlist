@@ -245,7 +245,7 @@ dimwishlist:item=2990047042&perks=2866798147,957782887
 dimwishlist:item=3717177717&perks=2450788523,591790007
 dimwishlist:item=3717177717&perks=1359896290,591790007
 
-// Deafening Whisper
+// Deafening Whisper (PVE)
 //notes: PVE, Handling, Reload mw recommended
 dimwishlist:item=981718087&perks=3436462433,3300816228
 dimwishlist:item=981718087&perks=2010801679,3300816228
@@ -253,12 +253,12 @@ dimwishlist:item=981718087&perks=1556840489,3300816228
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,4071163871
 
-// Martyr's Retribution  (PvE)
+// Martyr's Retribution (PvE)
 //notes: PVE, Handling mw recommended
 dimwishlist:item=3850168899&perks=3300816228,3523296417
 dimwishlist:item=3850168899&perks=2869569095,3523296417
 
-// First In, Last Out
+// First In, Last Out (PVE)
 //notes: BIS PVE Slug, Handling mw recommended
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
