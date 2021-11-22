@@ -1,8 +1,8 @@
 // Uzume RR4 (PvE)
 //notes: PVE, Reload/Handling mw recommended
-dimwishlist:item=2065081837&perks=1087426260,3400784728,1546637391
-dimwishlist:item=2065081837&perks=2420895100,3400784728,1546637391
-dimwishlist:item=2065081837&perks=106909392,3400784728,1546637391
+dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391
+dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391
+dimwishlist:item=852228780&perks=106909392,3400784728,1546637391
 
 //Succession (PvE)
 //notes: BIS PVE Sniper, Max handling recommended
