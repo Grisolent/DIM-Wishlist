@@ -31,6 +31,12 @@ dimwishlist:item=3850168899&perks=2869569095,3523296417
 //notes: BIS PVE Slug, Handling mw recommended
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
+// Cartesian Coordinate
+// Gambit, Reload mw recommended
+dimwishlist:item=2481881293&perks=2405638015,1556840489,4082225868
+dimwishlist:item=2481881293&perks=2405638014,1556840489,4082225868
+
+
 
 
 //the mountaintop
