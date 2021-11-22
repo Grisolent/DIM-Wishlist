@@ -1,4 +1,4 @@
-// Uzume RR4 (PvE)
+// Uzume RR4 (Adept) (PvE)
 //notes: PVE, Reload/Handling mw recommended
 dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391
 dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391
