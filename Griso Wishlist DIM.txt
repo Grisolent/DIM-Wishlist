@@ -1,10 +1,10 @@
-// Uzume RR4 (Adept) (PvE)
+// Uzume RR4 (Adept) (PVE)
 //notes: PVE, Reload/Handling mw recommended
 dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391
-dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391
 dimwishlist:item=852228780&perks=106909392,3400784728,1546637391
+dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391
 
-//Succession (PvE)
+// Succession (PvE)
 //notes: BIS PVE Sniper, Max handling recommended
 dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391
 
