@@ -33,7 +33,7 @@ dimwishlist:item=2121785039&perks=1561002382,247725512,3425386926
 dimwishlist:item=2121785039&perks=1561002382,4071163871,3425386926
 dimwishlist:item=2121785039&perks=1561002382,2450788523,3425386926
 
-// Punching Out (PvP first choice roll)
+// Punching Out (PvP)
 //notes: PVP, Max range recommended
 dimwishlist:item=378498222&perks=1561002382,378498222,4082225868
 dimwishlist:item=378498222&perks=1968497646,378498222,4082225868
@@ -81,6 +81,15 @@ dimwishlist:item=378498222&perks=1561002382,2450788523,4104185692
 dimwishlist:item=378498222&perks=1968497646,2450788523,4104185692
 dimwishlist:item=378498222&perks=1885400500,2450788523,4104185692
 
+// The Fool's Remedy
+//notes: PVP, Max range recommended
+dimwishlist:item=65611680&perks=588594999,1015611457
+dimwishlist:item=65611680&perks=588594999,699525795
+dimwishlist:item=65611680&perks=588594999,2846385770
+dimwishlist:item=65611680&perks=1866048759,1015611457
+dimwishlist:item=65611680&perks=1866048759,699525795
+
+title:PVE
 
 _________________________________________________________________________________________________________________________________________________________________________________
 title:Snipers
